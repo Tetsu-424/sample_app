@@ -1,0 +1,4 @@
+hisoka:
+  name: Hisoka E Morow
+  email: hisoka.exhunter.com
+  password_digest: <%= User.digest('password')%>
